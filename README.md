@@ -10,7 +10,7 @@
 
 | Certification Name | Platform | Link | Duration (hours) | Level | Status | Certificate | Notes |
 |------------------|---------|------|----------------|-------|--------|------------|------|
-| Responsive Web Design | freeCodeCamp | [link](https://www.freecodecamp.org/learn/responsive-web-design/) | 50 | Beginner | Not Started |  | HTML / CSS basics |
+| Responsive Web Design | freeCodeCamp | [link](https://www.freecodecamp.org/learn/responsive-web-design/) | 50 | Beginner |Started |  | HTML / CSS basics |
 | JavaScript Algorithms | freeCodeCamp | [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | 70 | Beginner | Not Started |  | JS fundamentals |
 | Frontend Libraries (React) | freeCodeCamp | [link](https://www.freecodecamp.org/learn/front-end-libraries/) | 60 | Intermediate | Not Started |  | React, Redux |
 | APIs & Backend Development | freeCodeCamp | [link](https://www.freecodecamp.org/learn/back-end-development-and-apis/) | 80 | Intermediate | Not Started |  | Node.js + Express + MongoDB |

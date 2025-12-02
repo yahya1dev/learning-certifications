@@ -1,8 +1,7 @@
 # 🚀 Learning & Certifications Tracker
 ### Full Stack Developer + Cloud Engineer + AI Integration
 
-هذا الريبو مخصص لتوثيق رحلتي التعليمية والشهادات التي سأكملها كمطور Full Stack ومهندس سحابة مع دمج AI.  
-كل الموارد مجانية 100%، ويتم تحديث التقدم باستمرار.
+Ce dépôt est destiné à documenter mon parcours éducatif et les certifications que je vais compléter en tant que développeur Full Stack et ingénieur cloud avec intégration de l'IA. Tous les ressources sont 100 % gratuites, et les progrès sont mis à jour en permanence.
 
 ---
 
@@ -62,7 +61,7 @@
 
 ## 📝 Usage
 
-- يتم تحديث **Status** عند بدء أي دورة  
-- يتم إضافة **Certificate** بعد الحصول عليها  
-- يمكن إضافة ملاحظات أو روابط مشاريع عملية في عمود Notes
-- تحديث README أسبوعيًا يعكس التقدم الحقيقي في Notion
+- Le **Statut** est mis à jour au début de chaque cycle
+- Le **Certificat** est ajouté après son obtention
+- Des notes ou des liens vers des projets pratiques peuvent être ajoutés dans la colonne Notes
+- La mise à jour hebdomadaire du README reflète les progrès réels dans Notion

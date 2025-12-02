@@ -40,7 +40,7 @@ This repository is intended to document my educational journey and the certifica
 
 ---
 
-## 🔐 Cybersecurity Basics (Optional)
+## 🔐 Cybersecurity Basics
 
 | Certification Name | Platform | Link | Duration (hours) | Level | Status | Certificate | Notes |
 |------------------|---------|------|----------------|-------|--------|------------|------|

@@ -1,7 +1,7 @@
 # 🚀 Learning & Certifications Tracker
 ### Full Stack Developer + Cloud Engineer + AI Integration
 
-Ce dépôt est destiné à documenter mon parcours éducatif et les certifications que je vais compléter en tant que développeur Full Stack et ingénieur cloud avec intégration de l'IA. Tous les ressources sont 100 % gratuites, et les progrès sont mis à jour en permanence.
+This repository is intended to document my educational journey and the certifications I will complete as a Full Stack developer and cloud engineer with AI integration. All resources are 100% free, and progress is continuously updated.
 
 ---
 
@@ -61,7 +61,7 @@ Ce dépôt est destiné à documenter mon parcours éducatif et les certificatio
 
 ## 📝 Usage
 
-- Le **Statut** est mis à jour au début de chaque cycle
-- Le **Certificat** est ajouté après son obtention
-- Des notes ou des liens vers des projets pratiques peuvent être ajoutés dans la colonne Notes
-- La mise à jour hebdomadaire du README reflète les progrès réels dans Notion
+- The **Status** is updated at the beginning of each cycle
+- The **Certificate** is added after it is obtained
+- Notes or links to practical projects can be added in the Notes column
+- The weekly README update reflects actual progress in Notion
